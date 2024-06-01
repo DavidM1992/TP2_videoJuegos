@@ -1,0 +1,85 @@
+.contenedor{
+width: auto;
+height: auto;
+background-color: transparent;
+scroll-behavior: smooth;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+#contNuevo{
+    background-color: rgb(199, 199, 199);
+    height: 400px;
+    width: 700px;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px black;
+    
+}
+
+#subtitulo{
+text-align: center;
+
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    margin: 20px;
+}
+
+#carga{
+    margin: 10px;
+}
+
+
+#label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.normal {
+    text-align: center;
+    width: 600px;
+    border: 2px solid #000000;
+    margin: auto;
+    
+    }
+    .normal th, .normal td {
+    border: 1px solid #000000;
+    }
+    
+    
+#cargados{
+    text-align: center;
+    height: auto;
+    width: 700px;
+    background-color: khaki;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 5px 5px black;
+}    
+
+#resultados{
+    text-align: center;
+    height: auto;
+    width: 700px;
+    background-color: rgb(230, 207, 0);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 5px 5px black;
+   
+} 
+
+#datos{
+    background-color:transparent;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+}
